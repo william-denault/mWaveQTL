@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599130805875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D09F2228",
+    "lastKnownWriteTime" : 1599163240,
+    "last_content_update" : 1599163240914,
+    "path" : "D:/Document/Serieux/Travail/Package/mWaveQTL/R/mWaveQTL.R",
+    "project_path" : "R/mWaveQTL.R",
+    "properties" : {
+        "cursorPosition" : "284,18",
+        "scrollLine" : "274",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
